@@ -1,0 +1,1 @@
+fff, unity, HAL, externi knihovny

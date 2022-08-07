@@ -1,0 +1,1 @@
+vyssi vrstva, nezavisla na periferiich, neni potreba menit pri zmene hardwaru, interfacenute s driverama

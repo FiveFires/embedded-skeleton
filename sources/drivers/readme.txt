@@ -1,0 +1,1 @@
+zavisle na desce, periferiich, hardware shit, menim v pripade zmeny desky
